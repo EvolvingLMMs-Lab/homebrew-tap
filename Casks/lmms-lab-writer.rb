@@ -1,6 +1,6 @@
 cask "lmms-lab-writer" do
   version "0.1.0"
-  sha256 "301a58baf6e5a9cf7ed57b7b736362716471e01d424313be06e9e9585ff5bffb"
+  sha256 "4a1848fc0146caa28498dea4c4945469dbfe28101fc93ce45ff63efaae98b6c0"
 
   url "https://uv96nthsmy3qxwco.public.blob.vercel-storage.com/LMMs-Lab_Writer_#{version}_aarch64.pkg"
   name "LMMs-Lab Writer"
